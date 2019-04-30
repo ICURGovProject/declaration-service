@@ -1,3 +1,5 @@
+#  (c) 2019 Anton Myshenin
+
 from flask import Flask
 
 app = Flask(__name__)
